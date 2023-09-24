@@ -1,38 +1,38 @@
 export default [
     {
         name: "Locomotive",
-        background: "locomotive.jpg"
+        background: "/trainc.jpg"
     },
     {
         name: "Car 1",
-        background: "car-1.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 2",
-        background: "car-2.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 3",
-        background: "car-3.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 4",
-        background: "car-4.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 5",
-        background: "car-5.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 6",
-        background: "car-6.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 7",
-        background: "car-7.jpg"
+        background: "carc.jpg"
     },
     {
         name: "Car 8",
-        background: "car-8.jpg"
+        background: "carc.jpg"
     },
 ]
